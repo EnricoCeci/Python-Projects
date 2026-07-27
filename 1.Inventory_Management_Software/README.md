@@ -209,6 +209,13 @@ inventory-management/
 
 ---
 
+## Data Persistence
+
+The application stores inventory and sales data in a local `inventory.json` file.
+If the file does not exist, it is automatically created during the first execution of the program.
+
+---
+
 ## How to Run
 
 Run the application from the command line:
